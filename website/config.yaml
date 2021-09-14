@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
-languageCode: "en-us"
-title: "Hugo-profile"
+languageCode: "pt-br"
+title: "Axl Andrade"
 theme: "./.."
 relativeURLs: true
 
@@ -30,14 +30,14 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
-  name: "Example name"
-  profession: "Profession"
-  github: "https://github.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  profile_image: "/images/profile.jpg"
+  name: "Axl Andrade"
+  profession: "Estudante"
+  github: "https://github.com/AxlAndrade"
+  linkedin: "https://www.linkedin.com/in/axl-silva-de-andrade-084a7820a/"
+  twitter: "https://twitter.com/axl_andrade"
+  instagram: "https://instagram.com/axl_andrad18"
+  facebook: "https://facebook.com/axl.andrade.16"
 
   # About
   disable_about: false
