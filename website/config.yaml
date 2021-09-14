@@ -52,6 +52,8 @@ params:
       percentage: 40
     - name: CSS
       percentage: 30
+    - name: Java
+      percentage: 10
 
   # Experience
   disable_experience: false
