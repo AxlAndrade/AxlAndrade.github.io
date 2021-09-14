@@ -41,8 +41,9 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Olá, eu sou o Axl, tento usar um pouco do meu conhecimento para tornar coisas chatas em coisas divertidas."
+  descripe_l2_person: "Sou estudante de TI e de licenciatura em matemática, apaixonado por tecnologias e números."
+  descripe_l3_person: "Você pode achar meus trabalhos aqui [here](#projects)"
   skills:
     - name: Python
       percentage: 70
@@ -56,7 +57,7 @@ params:
       percentage: 10
 
   # Experience
-  disable_experience: false
+  disable_experience: true
   experience:
     - company: "Google"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
