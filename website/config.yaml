@@ -92,25 +92,25 @@ params:
       university: "Universidade Federal Rural do Rio de Janeiro (IM/UFRRJ)"
       startedyear: "2020"
       graduation: "~2024"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "Gestão da Técnologia da Informação"
+      branch: "Tecnólogo"
+      university: "Universidade Estácio de Sá"
+      startedyear: "2021"
+      graduation: "~2023"
+    #- degree: ""
+      #branch:""
+      #university: "Example university"
+      #startedyear: "year"
+      #graduation: "year"
 
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
+    - name: "M4t3m4t1c4"
       img: /images/project.jpg
-      githublink: "https://github.com/"
+      githublink: "https://github.com/AxlAndrade/Calculadora-M4t3m4t1c4"
       featuredlink: "/"
-      description: "Description of project"
+      description: "Mais do que apenas uma calculadora."
 
   # Achievements
   disable_achievements: false
@@ -130,7 +130,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+  contact_content: Meu inbox está sempre aberto. Se tiver uma pergunta pode mandar!, vou dar meu melhor para te responder!
   email: "axlsandrade@outlook.com"
 
   # Footer
