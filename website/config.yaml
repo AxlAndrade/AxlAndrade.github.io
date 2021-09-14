@@ -44,14 +44,14 @@ params:
   descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
+    - name: Python
       percentage: 70
+    - name: C
+      percentage: 50
+    - name: HTML
+      percentage: 40
+    - name: CSS
+      percentage: 30
 
   # Experience
   disable_experience: false
