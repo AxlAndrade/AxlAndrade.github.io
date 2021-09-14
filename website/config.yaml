@@ -87,11 +87,11 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
+    - degree: "Matemática"
+      branch: "Licenciatura"
+      university: "Universidade Federal Rural do Rio de Janeiro (IM/UFRRJ)"
+      startedyear: "2020"
+      graduation: "~2024"
     - degree: "Degree"
       branch: "Branch"
       university: "Example university"
