@@ -12,3 +12,7 @@ featured: /
 # Em breve...
 ---
 Em breve teremos postagens...
+
+<!--Mais>
+
+Segura a ansiedade!
