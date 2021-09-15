@@ -118,13 +118,13 @@ params:
   achievements:
     - title: Aprovação
       description: Aprovado e classificado para a Academia da Força Aérea (AFA) no ano de 2019.
-      img: /images/achiv.jpg
+      img: /images/AFA.png
     - title: Aprovação
       description: Aprovado para a Escola de Formação de Oficiais da Marinha Mercante (EFOMM) no ano de 2020.
       img: /images/achiv.jpg
     - title: Aprovação
       description: Aprovado para a Escola Preparatória de Cadetes do Exército (EsPCEx) no ano de 2019.
-      img: /images/achiv.jpg
+      img: /images/achiv.png
     - title: Aprovação
       description: Aprovado para a Escola de Sargentos das Armas (ESA) no ano de 2019.
       img: /images/achiv.jpg
