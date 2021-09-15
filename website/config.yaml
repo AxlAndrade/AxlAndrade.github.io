@@ -117,18 +117,23 @@ params:
   disable_achievements: false
   achievements:
     - title: Aprovação
-      description: Aprovado e classificado para a Academia da Força Aérea (AFA).
+      description: Aprovado e classificado para a Academia da Força Aérea (AFA) no ano de 2019.
       img: /images/achiv.jpg
-    #- title: Competition winner
-      #description: We are developed a product which can help others.
-      #img: /images/achiv.jpg
-    #- title: Competition winner
-      #description: We are developed a product which can help others.
-      #img: /images/achiv.jpg
-    #- title: Competition winner
-      #description: We are developed a product which can help others.
-      #img: /images/achiv.jpg
-
+    - title: Aprovação
+      description: Aprovado para a Escola de Formação de Oficiais da Marinha Mercante (EFOMM) no ano de 2020.
+      img: /images/achiv.jpg
+    - title: Aprovação
+      description: Aprovado para a Escola Preparatória de Cadetes do Exército (EsPCEx) no ano de 2019.
+    - title: Aprovação
+      description: Aprovado para a Escola de Sargentos das Armas (ESA) no ano de 2019.
+      img: /images/achiv.jpg
+    - title: Aprovação
+      description: Aprovado para a Escola de Especialistas da Aeronáutica (EEAr) nos anos de 2019 e 2021.
+      img: /images/achiv.jpg
+    - title: Aprovação
+      description: Aprovado e classificado para a Escola de Aprendizes Marinheiros (EAM) no ano de 2019 e 2020.
+      img: /images/achiv.jpg
+    
   # Contact
   disable_contact: false
   contact_content: Meu inbox está sempre aberto. Se tiver uma pergunta pode mandar! Vou dar meu melhor para te responder!
