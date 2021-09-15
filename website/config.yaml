@@ -104,14 +104,13 @@ params:
       #graduation: "year"
 
   # Projects
-  disable_projects: false
+  disable_projects: true
   projects:
     - name: "M4t3m4t1c4"
       img: /images/project.jpg
       githublink: "https://github.com/AxlAndrade/Calculadora-M4t3m4t1c4"
       featuredlink: "/"
       description: "Mais do que apenas uma calculadora."
-    - name: "Em breve..."
 
   # Achievements
   disable_achievements: false
