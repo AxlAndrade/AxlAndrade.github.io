@@ -131,7 +131,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: Meu inbox está sempre aberto. Se tiver uma pergunta pode mandar!, vou dar meu melhor para te responder!
+  contact_content: Meu inbox está sempre aberto. Se tiver uma pergunta pode mandar! Vou dar meu melhor para te responder!
   email: "axlsandrade@outlook.com"
 
   # Footer
