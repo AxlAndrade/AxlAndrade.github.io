@@ -115,18 +115,18 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Aprovação
+      description: Aprovado na Academia da Força Aérea (AFA).
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
+    #- title: Competition winner
+      #description: We are developed a product which can help others.
+      #img: /images/achiv.jpg
+    #- title: Competition winner
+      #description: We are developed a product which can help others.
+      #img: /images/achiv.jpg
+    #- title: Competition winner
+      #description: We are developed a product which can help others.
+      #img: /images/achiv.jpg
 
   # Contact
   disable_contact: false
