@@ -54,6 +54,8 @@ params:
       percentage: 40
     - name: CSS
       percentage: 30
+    - name: SQL
+      percentage: 30
     - name: Java
       percentage: 10
 
